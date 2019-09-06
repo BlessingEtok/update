@@ -23,5 +23,16 @@ color:rgb(85, 4, 78);
      margin-left: 70px;
  }
 
+ #contact {
+     text-decoration: none;
+     background-color: purple;
+     color: white;
+     text-align: center;
+     height: 1.8em;
+     width: 100px;
+     border: 1px solid black;
+
+ }
+
 
 
